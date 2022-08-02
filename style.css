@@ -1,0 +1,35 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.contanier {
+    width: 300px;
+    background-color: #fff;
+    padding: 12px;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.contanier img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.contanier .text {
+    padding: 5px;
+}
+
+.contanier h3 {
+    font-size: 20px;
+}
+
+.contanier p {
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+}
